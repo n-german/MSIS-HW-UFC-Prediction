@@ -1,0 +1,289 @@
+{
+  "title_fight": {
+    "min": 0.0,
+    "p01": 0.0,
+    "median": 0.0,
+    "p99": 1.0,
+    "max": 1.0
+  },
+  "card_position": {
+    "min": 0.0,
+    "p01": 1.0,
+    "median": 6.0,
+    "p99": 13.0,
+    "max": 15.0
+  },
+  "red_age": {
+    "min": 17.949349760438057,
+    "p01": 21.902997946611908,
+    "median": 30.340862422997947,
+    "p99": 41.22422997946611,
+    "max": 47.854893908282
+  },
+  "blue_age": {
+    "min": 2.7433264887063653,
+    "p01": 21.864202600958247,
+    "median": 29.842573579739906,
+    "p99": 40.2720054757015,
+    "max": 46.62833675564682
+  },
+  "red_height": {
+    "min": 152.4,
+    "p01": 157.48,
+    "median": 177.8,
+    "p99": 198.12,
+    "max": 210.82
+  },
+  "blue_height": {
+    "min": 152.4,
+    "p01": 157.48,
+    "median": 177.8,
+    "p99": 198.12,
+    "max": 210.82
+  },
+  "red_reach": {
+    "min": 148.59,
+    "p01": 157.48,
+    "median": 182.88,
+    "p99": 208.28,
+    "max": 214.63
+  },
+  "blue_reach": {
+    "min": 147.32,
+    "p01": 157.48,
+    "median": 182.88,
+    "p99": 205.74,
+    "max": 214.63
+  },
+  "red_prior_fights": {
+    "min": 0.0,
+    "p01": 0.0,
+    "median": 4.0,
+    "p99": 28.0,
+    "max": 45.0
+  },
+  "blue_prior_fights": {
+    "min": 0.0,
+    "p01": 0.0,
+    "median": 3.0,
+    "p99": 23.0,
+    "max": 43.0
+  },
+  "red_prior_wins": {
+    "min": 0.0,
+    "p01": 0.0,
+    "median": 3.0,
+    "p99": 18.0,
+    "max": 27.0
+  },
+  "blue_prior_wins": {
+    "min": 0.0,
+    "p01": 0.0,
+    "median": 2.0,
+    "p99": 15.0,
+    "max": 26.0
+  },
+  "red_prior_win_rate": {
+    "min": 0.0,
+    "p01": 0.0,
+    "median": 0.6,
+    "p99": 1.0,
+    "max": 1.0
+  },
+  "blue_prior_win_rate": {
+    "min": 0.0,
+    "p01": 0.0,
+    "median": 0.5,
+    "p99": 1.0,
+    "max": 1.0
+  },
+  "red_prior_finish_wins": {
+    "min": 0.0,
+    "p01": 0.0,
+    "median": 1.0,
+    "p99": 12.0,
+    "max": 20.0
+  },
+  "blue_prior_finish_wins": {
+    "min": 0.0,
+    "p01": 0.0,
+    "median": 1.0,
+    "p99": 10.0,
+    "max": 20.0
+  },
+  "red_prior_finish_rate": {
+    "min": 0.0,
+    "p01": 0.0,
+    "median": 0.5,
+    "p99": 1.0,
+    "max": 1.0
+  },
+  "blue_prior_finish_rate": {
+    "min": 0.0,
+    "p01": 0.0,
+    "median": 0.3333333333333333,
+    "p99": 1.0,
+    "max": 1.0
+  },
+  "red_prior_avg_duration": {
+    "min": -0.6850000000000005,
+    "p01": 1.0,
+    "median": 10.615000000000002,
+    "p99": 17.36350277777778,
+    "max": 25.0
+  },
+  "blue_prior_avg_duration": {
+    "min": -5.0,
+    "p01": 0.7868,
+    "median": 10.325999999999999,
+    "p99": 15.355299999999994,
+    "max": 25.0
+  },
+  "red_days_since_last_fight": {
+    "min": 0.0,
+    "p01": 2.0,
+    "median": 173.0,
+    "p99": 1001.6300000000001,
+    "max": 4365.0
+  },
+  "blue_days_since_last_fight": {
+    "min": 0.0,
+    "p01": 3.3400000000000034,
+    "median": 162.0,
+    "p99": 1194.619999999999,
+    "max": 4180.0
+  },
+  "age_diff": {
+    "min": -16.98836413415469,
+    "p01": -11.870910335386718,
+    "median": 0.4462696783025333,
+    "p99": 12.765667351129348,
+    "max": 19.901437371663246
+  },
+  "height_diff": {
+    "min": -30.47999999999999,
+    "p01": -15.240000000000009,
+    "median": 0.0,
+    "p99": 15.240000000000009,
+    "max": 33.01999999999998
+  },
+  "reach_diff": {
+    "min": -33.01999999999998,
+    "p01": -19.05000000000001,
+    "median": 0.0,
+    "p99": 20.319999999999993,
+    "max": 31.75
+  },
+  "prior_fights_diff": {
+    "min": -27.0,
+    "p01": -14.0,
+    "median": 1.0,
+    "p99": 21.0,
+    "max": 41.0
+  },
+  "prior_win_rate_diff": {
+    "min": -1.0,
+    "p01": -1.0,
+    "median": 0.0,
+    "p99": 1.0,
+    "max": 1.0
+  },
+  "prior_finish_rate_diff": {
+    "min": -1.0,
+    "p01": -1.0,
+    "median": 0.0,
+    "p99": 1.0,
+    "max": 1.0
+  },
+  "prior_avg_duration_diff": {
+    "min": -19.82,
+    "p01": -11.284233333333333,
+    "median": 0.15668181818181992,
+    "p99": 12.071299999999999,
+    "max": 21.259999999999998
+  },
+  "days_since_last_fight_diff": {
+    "min": -4047.0,
+    "p01": -878.0,
+    "median": 0.0,
+    "p99": 679.7799999999997,
+    "max": 3879.0
+  },
+  "weight_class": [
+    "BANTAMWEIGHT",
+    "CATCH_WEIGHT",
+    "FEATHERWEIGHT",
+    "FLYWEIGHT",
+    "HEAVYWEIGHT",
+    "LIGHTWEIGHT",
+    "LIGHT_HEAVYWEIGHT",
+    "MIDDLEWEIGHT",
+    "OPEN_WEIGHT",
+    "Other",
+    "WELTERWEIGHT",
+    "W_BANTAMWEIGHT",
+    "W_FLYWEIGHT",
+    "W_STRAWWEIGHT"
+  ],
+  "card_section": [
+    "EARLY_PRELIMS",
+    "MAIN_CARD",
+    "Other",
+    "PRELIMS"
+  ],
+  "event_venue_country": [
+    "Australia",
+    "Brazil",
+    "Canada",
+    "China",
+    "England",
+    "France",
+    "Germany",
+    "Japan",
+    "Mexico",
+    "Other",
+    "Singapore",
+    "Sweden",
+    "USA",
+    "United Arab Emirates"
+  ],
+  "red_stance": [
+    "open stance",
+    "orthodox",
+    "sideways",
+    "southpaw",
+    "switch"
+  ],
+  "blue_stance": [
+    "open stance",
+    "orthodox",
+    "sideways",
+    "southpaw",
+    "switch"
+  ],
+  "stance_matchup": [
+    "Unknown_vs_Unknown",
+    "Unknown_vs_orthodox",
+    "Unknown_vs_southpaw",
+    "open stance_vs_orthodox",
+    "open stance_vs_southpaw",
+    "orthodox_vs_Unknown",
+    "orthodox_vs_open stance",
+    "orthodox_vs_orthodox",
+    "orthodox_vs_sideways",
+    "orthodox_vs_southpaw",
+    "orthodox_vs_switch",
+    "sideways_vs_Unknown",
+    "sideways_vs_orthodox",
+    "southpaw_vs_Unknown",
+    "southpaw_vs_open stance",
+    "southpaw_vs_orthodox",
+    "southpaw_vs_sideways",
+    "southpaw_vs_southpaw",
+    "southpaw_vs_switch",
+    "switch_vs_Unknown",
+    "switch_vs_orthodox",
+    "switch_vs_southpaw",
+    "switch_vs_switch"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "decision_tree": {
+    "model__max_depth": 10,
+    "model__min_samples_leaf": 50
+  },
+  "random_forest": {
+    "model__max_depth": 8,
+    "model__min_samples_leaf": 5,
+    "model__n_estimators": 100
+  },
+  "xgboost": {
+    "model__learning_rate": 0.05,
+    "model__max_depth": 6,
+    "model__n_estimators": 100
+  }
+}
